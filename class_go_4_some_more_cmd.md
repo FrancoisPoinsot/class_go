@@ -1,25 +1,42 @@
 ## Quelques commandes
 
-- Compiler l'application : `go build main.go`
+#### Compiler l'application 
+`go build main.go`  
+
 Ceci créer un executable nommé `main.exe`. Vous pouvez l'exxecuter avec `./main.exe` 
 
-- Compiler vers un autre OS: `$Env:GOOS = 'linux'; go build main.go`
+#### Compiler vers un autre OS
+ `$Env:GOOS = 'linux'; go build main.go`  
+
 Le changement de la variable d'environnement `GOOS` n'est pas persisté.
 
-- tester le projet : `go test ./...`
+#### tester le projet
+ `go test ./...`  
 
-- recuperer d'autre projets: `go get github.com/golang/example/hello`
+#### recuperer d'autre projets
+ `go get github.com/golang/example/hello`  
+
 Le package sera disponible dans `$Env:GOPATH/src/github.com/golang/example/hello` 
 
-- Obtenir de l'aide `go -h`, `go build -h`, `go test -h`, ...
+#### Obtenir de l'aide
+`go -h`  
+`go build -h`  
+`go test -h`
   
-- Compiler et placer le binaire dans le dossier `bin`: `go install`
+#### Compiler et placer le binaire dans le dossier `bin`
 
-- Vérifier code : `go vet`
+ `go install`  
 
-- Formater code : `go fmt`
+#### Vérifier code
+ `go vet`  
 
-- Lister les package du projet courant : `go list`
+#### Formater code
+ `go fmt`
+
+#### Lister les package du projet courant 
+`go list`
+
+#### Note
 
 La plupart de ces commandes accept l'argument `./...` pour appliquer leur effet à tout les sous-dossier. 
 

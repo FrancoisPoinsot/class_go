@@ -1,9 +1,9 @@
-## Documentation offociel
+## Documentation officiel
 
 La liste complète des packages standard ce trouve ici: https://golang.org/pkg/  
 Pour commencer, on peut en ignorer la pluspart.  
 
-## Les plus important pour commancer
+## Les plus important pour commencer
 
 #### fmt
 
