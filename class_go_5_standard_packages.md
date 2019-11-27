@@ -1,9 +1,9 @@
-## Documentation officiel
+## Documentation officielle
 
-La liste complète des packages standard ce trouve ici: https://golang.org/pkg/  
-Pour commencer, on peut en ignorer la pluspart.  
+La liste complète des packages standard se trouve ici: https://golang.org/pkg/  
+Pour commencer, on peut en ignorer la plupart.  
 
-## Les plus important pour commencer
+## Les plus importants pour commencer
 
 #### fmt
 
@@ -11,12 +11,12 @@ Format des string et affiche dans la console
 
 #### math
 
-Vous y trouverez des operations mathematiques et des RNG
+Vous y trouverez des opérations mathématiques et des RNG
 
 #### database
 
-Contient des interface pour utiliser des database.  
-Vous devez quand même importer le driver correspondant à la database que vous ciblez.  
+Contient des interfaces pour utiliser des bases de donnée.  
+Vous devez quand même importer le driver correspondant à la bases de donnée que vous ciblez.  
 ex: `import _ "github.com/denisenkom/go-mssqldb"`  
 
 #### encoding/json
@@ -34,7 +34,7 @@ Pour créer ou manipuler des url.
 #### os 
 
 Interface vers l'OS. 
-Utile pour lire des fichier, écouter des signaux, éxecuter des commandes...
+Utile pour lire des fichiers, écouter des signaux, exécuter des commandes...
 
 #### sort
 
@@ -51,11 +51,15 @@ Permet de convertir les strings vers/depuis un autre type.
 
 #### time
 
-Contient le type `Time` et les operations associées
+Contient le type `Time` et les opérations associées
 
 
 
 
-## Exercice
+## Exercice 1
 
 Afficher l'heure actuelle dans la console.
+
+## Exercice 2
+
+Afficher le timestamp unix actuel dans la console.

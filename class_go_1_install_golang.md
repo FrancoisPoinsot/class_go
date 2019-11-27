@@ -6,14 +6,14 @@ https://chocolatey.org/docs/installation
 
 - re-ouvrir powershell (as admin)
 
-- executer `choco install golang`
+- exécuter `choco install golang`
 - re-ouvrir powershell
 
-executer `go version` pour verifier  
+exécuter `go version` pour verifier  
 
 
 - setup le dossier golang
-executer `mkdir $Env:GOPATH; mkdir $Env:GOPATH/src; mkdir $Env:GOPATH/bin`   
+exécuter `mkdir $Env:GOPATH; mkdir $Env:GOPATH/src; mkdir $Env:GOPATH/bin`   
 
 Le dossier golang se situe est placé à la valeur de la variable d'environment `GOPATH`.  
 Dans le cadre de ce tutorial ça devrait être `~/go`.  

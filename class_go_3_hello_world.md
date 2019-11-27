@@ -18,4 +18,4 @@ func main() {
 
 ```
 
-- pour executer l'application : `go run main.go`
+- pour exécuter l'application : `go run main.go`

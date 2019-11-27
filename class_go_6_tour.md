@@ -3,7 +3,7 @@
 Le golang tour est une excelente documentation du language golang.
 Disponible [ici](https://tour.golang.org/welcome/1).
 
-Elle est pratique pour decouvrir le language mais aussi pour y revenir plus tard pour chercher une information.
+Elle est pratique pour découvrir le language mais aussi pour y revenir plus tard pour chercher une information.
 
 ## Types
 

@@ -3,7 +3,7 @@
 #### Compiler l'application 
 `go build main.go`  
 
-Ceci créer un executable nommé `main.exe`. Vous pouvez l'exxecuter avec `./main.exe` 
+Ceci créer un exécutable nommé `main.exe`. Vous pouvez l'exécuter avec `./main.exe` 
 
 #### Compiler vers un autre OS
  `$Env:GOOS = 'linux'; go build main.go`  
@@ -13,7 +13,7 @@ Le changement de la variable d'environnement `GOOS` n'est pas persisté.
 #### tester le projet
  `go test ./...`  
 
-#### recuperer d'autre projets
+#### récupérer d'autre projets
  `go get github.com/golang/example/hello`  
 
 Le package sera disponible dans `$Env:GOPATH/src/github.com/golang/example/hello` 
@@ -38,13 +38,13 @@ Le package sera disponible dans `$Env:GOPATH/src/github.com/golang/example/hello
 
 #### Note
 
-La plupart de ces commandes accept l'argument `./...` pour appliquer leur effet à tout les sous-dossier. 
+La plupart de ces commandes accepte l'argument `./...` pour appliquer leur effet à tout les sous-dossier. 
 
 
 ## Exercice 1
 
 Lister les packages du projet `github.com/denisenkom/go-mssqldb`  
 
-## Ezercice 2
+## Exercice 2
 
-Recupérer et executer `github.com/farhaanbukhsh/chuck`
+Récupérer et exécuter `github.com/farhaanbukhsh/chuck`

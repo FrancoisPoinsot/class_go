@@ -4,7 +4,7 @@ Suivre UNE de ces solutions:
 
 ### Goland
 
-Si vous avew une clé premium pour Inteliji ou m'importe quel produit de jetbrains, vous pouvez l'utiliser pour installer goland.
+Si vous avez une clé premium pour Inteliji ou m'importe quel produit de jetbrains, vous pouvez l'utiliser pour installer goland.
 Il n'y a rien à configurer.
 
 ### VSCode
