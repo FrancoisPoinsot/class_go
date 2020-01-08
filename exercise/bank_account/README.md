@@ -10,7 +10,7 @@ Le montant est noté en centimes. Il correspond au montant disponible au début 
 `amount` contient le montant de la transaction noté en centime. 
 
 
-1) Créez un nouveau fichier `new_accounts.json` qui contient le nouvel états pour l'ensemble des comptes du fichier `account.json`
+1) Créez un nouveau fichier `new_accounts.json` qui contient les nouveaux états pour l'ensemble des comptes du fichier `account.json`
 
 2) L'équipe de Data Inteligence veut le top 10 des comptes ayant le plus d'argent à la fin de la journée. Mais ils utilisent un format different.  
 Trouvez les 10 comptes ayant le plus gros montant et exporter dans un nouveau fichier au format YAML `top10.yaml`
