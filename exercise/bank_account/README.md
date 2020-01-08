@@ -10,6 +10,8 @@ Le montant est noté en centimes. Il correspond au montant disponible au début 
 `amount` contient le montant de la transaction noté en centime. 
 
 
+Pour chacune des questions suivantes, vous devez fournir le fichier resultat attendu et ainsi que le code qui a permis de le générer.
+
 1) Créez un nouveau fichier `new_accounts.json` qui contient les nouveaux états pour l'ensemble des comptes du fichier `account.json`
 
 2) L'équipe de Data Inteligence veut le top 10 des comptes ayant le plus d'argent à la fin de la journée. Mais ils utilisent un format different.  
