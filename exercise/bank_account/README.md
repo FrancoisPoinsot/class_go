@@ -6,7 +6,7 @@ Le montant est noté en centimes. Il correspond au montant disponible au début 
 
 - `operations.json` contient la liste des operations financiaires entre les comptes depuis le debut de la journée.   
 `account_out` est le compte d'origine de la transaction.
-`account_int` est le compte destinatire de la transaction.
+`account_in` est le compte destinatire de la transaction.
 `amount` contient le montant de la transaction noté en centime. 
 
 
