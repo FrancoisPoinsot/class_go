@@ -27,3 +27,7 @@ example:
   amount: 9698
   ...
 ```
+
+#### Rendu
+
+envoyez une archive a francois.poinsot@gmail.com avec "DEVOIR" dans le titre et votre nom quelque part
